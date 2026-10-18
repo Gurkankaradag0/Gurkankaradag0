@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="24" viewBox="0 0 1000 24" aria-hidden="true"><defs><style>.cmt{stroke-dasharray:14 86;animation:cmt 5s linear infinite}@keyframes cmt{from{stroke-dashoffset:100}to{stroke-dashoffset:0}}
+.tw{animation:tw 4s ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:.1}50%{opacity:.75}}
+.blink{animation:blink 1.1s step-end infinite}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#313244" stop-opacity="0"/><stop offset=".5" stop-color="#45475a"/><stop offset="1" stop-color="#313244" stop-opacity="0"/></linearGradient>
+<linearGradient id="cm" x1="0" x2="1"><stop offset="0" stop-color="#cba6f7" stop-opacity="0"/><stop offset="1" stop-color="#94e2d5"/></linearGradient></defs><line x1="0" y1="12" x2="1000" y2="12" stroke="url(#ln)"/><line x1="0" y1="12" x2="1000" y2="12" stroke="url(#cm)" stroke-width="2" stroke-linecap="round" pathLength="100" class="cmt"/><rect x="496.0" y="8" width="8" height="8" transform="rotate(45 500.0 12)" fill="#cba6f7"/></svg>
