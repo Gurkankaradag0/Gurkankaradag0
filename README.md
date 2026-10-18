@@ -86,7 +86,7 @@ I'm **Gürkan**, a Full Stack Developer. I build web apps end to end with Next.j
 <img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by — gurkankaradag.me" />
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=gurkankaradag0&icon=0&color=0" alt="Visitor count" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Gurkankaradag0&label=PROFILE+VIEWS&color=cba6f7&style=for-the-badge" alt="Profile views" />
 </p>
 
 ## 💰 You can help me by Donating
